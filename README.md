@@ -20,4 +20,5 @@ Programming Language: Python
 
 Libraries: NumPy, Pandas, Scikit-learn, TensorFlow / PyTorch, OpenCV, NLTK, Matplotlib, Seaborn
 
-Visualization: Matplotlib, Seaborn (for training results and metrics)
+Visualization: Matplotlib, Seaborn (for training results and metrics)m
+
